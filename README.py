@@ -2,7 +2,7 @@
 
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
+
 
 # 데이터 로드
 df = pd.read_csv('GDP_성장률_실질__20250616122502')
